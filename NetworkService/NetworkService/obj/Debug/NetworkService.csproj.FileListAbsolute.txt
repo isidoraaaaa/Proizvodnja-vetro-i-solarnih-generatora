@@ -1,0 +1,198 @@
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\DisplayView.g.cs
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\GeneratoriView.g.cs
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\GraphView.g.cs
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\DisplayView.baml
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\GeneratoriView.baml
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\GraphView.baml
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vuk\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\DisplayView.g.cs
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\GeneratoriView.g.cs
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\GraphView.g.cs
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\DisplayView.baml
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\GeneratoriView.baml
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\Views\GraphView.baml
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\DEL0RE$\Desktop\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\Views\DisplayView.g.cs
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\Views\GeneratoriView.g.cs
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\Views\GraphView.g.cs
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\Views\DisplayView.baml
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\Views\GeneratoriView.baml
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\Views\GraphView.baml
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+E:\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+E:\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+E:\PZ2\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+E:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+E:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+E:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+E:\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+E:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+E:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+E:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+E:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+E:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+E:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+E:\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+E:\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+E:\PZ2\NetworkService\NetworkService\obj\Debug\Views\DisplayView.g.cs
+E:\PZ2\NetworkService\NetworkService\obj\Debug\Views\GeneratoriView.g.cs
+E:\PZ2\NetworkService\NetworkService\obj\Debug\Views\GraphView.g.cs
+E:\PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+E:\PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+E:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+E:\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+E:\PZ2\NetworkService\NetworkService\obj\Debug\Views\DisplayView.baml
+E:\PZ2\NetworkService\NetworkService\obj\Debug\Views\GeneratoriView.baml
+E:\PZ2\NetworkService\NetworkService\obj\Debug\Views\GraphView.baml
+E:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+E:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+E:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+E:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+E:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+E:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+E:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+D:\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+D:\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+D:\PZ2\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+D:\PZ2\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+D:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+D:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\PZ2\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+D:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+D:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\PZ2\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\PZ2\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+D:\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+D:\PZ2\NetworkService\NetworkService\obj\Debug\Views\DisplayView.g.cs
+D:\PZ2\NetworkService\NetworkService\obj\Debug\Views\GeneratoriView.g.cs
+D:\PZ2\NetworkService\NetworkService\obj\Debug\Views\GraphView.g.cs
+D:\PZ2\NetworkService\NetworkService\obj\Debug\App.g.cs
+D:\PZ2\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+D:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+D:\PZ2\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+D:\PZ2\NetworkService\NetworkService\obj\Debug\Views\DisplayView.baml
+D:\PZ2\NetworkService\NetworkService\obj\Debug\Views\GeneratoriView.baml
+D:\PZ2\NetworkService\NetworkService\obj\Debug\Views\GraphView.baml
+D:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+D:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+D:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+D:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+D:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+D:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+D:\PZ2\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\bin\Debug\CommonServiceLocator.dll
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.dll
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.xml
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\NetworkService.csprojAssemblyReference.cache
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\Views\DisplayView.g.cs
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\Views\GeneratoriView.g.cs
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\Views\GraphView.g.cs
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\App.g.cs
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\Views\DisplayView.baml
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\Views\GeneratoriView.baml
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\Views\GraphView.baml
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CopyComplete
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\NetworkService\NetworkService\obj\Debug\NetworkService.pdb

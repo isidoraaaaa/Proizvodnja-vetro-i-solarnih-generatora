@@ -1,0 +1,120 @@
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csprojAssemblyReference.cache
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CopyComplete
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Vuk\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csprojAssemblyReference.cache
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CopyComplete
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\DEL0RE$\Desktop\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csprojAssemblyReference.cache
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CopyComplete
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Vuk\Desktop\HCI\Isidora\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+E:\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+E:\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+E:\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+E:\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\System.Windows.Interactivity.dll
+E:\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\System.Windows.Interactivity.xml
+E:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csprojAssemblyReference.cache
+E:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+E:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+E:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+E:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+E:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+E:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+E:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+E:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+E:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+E:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CopyComplete
+E:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+E:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+D:\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+D:\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+D:\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+D:\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\System.Windows.Interactivity.dll
+D:\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\PZ2\MeteringSimulator\MeteringSimulator\bin\Debug\System.Windows.Interactivity.xml
+D:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csprojAssemblyReference.cache
+D:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+D:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+D:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+D:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+D:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+D:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+D:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+D:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+D:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+D:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CopyComplete
+D:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+D:\PZ2\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe.config
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.exe
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\bin\Debug\MeteringSimulator.pdb
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\bin\Debug\System.Windows.Interactivity.dll
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\bin\Debug\Microsoft.Expression.Interactions.xml
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\bin\Debug\System.Windows.Interactivity.xml
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csprojAssemblyReference.cache
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.g.cs
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\obj\Debug\App.g.cs
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\obj\Debug\MainWindow.baml
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CopyComplete
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+D:\V semestar\HCI_projekti\PZ2_Bogdanovic_Isidora\MeteringSimulator\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
